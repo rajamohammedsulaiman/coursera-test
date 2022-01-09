@@ -1,0 +1,116 @@
+/** HEADER **/
+#header-nav {
+  background-color: #ff9676;
+  border-radius: 0;
+  border: 0;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #22482f;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0px;
+  margin-bottom: 0;
+  line-height: .75;
+  padding-left: 15px;
+}
+#h2 { 
+font-weight: bold;
+font-size: 1.75em;
+}
+
+#h3 { 
+font-weight: bold;
+}
+
+.box1 {
+    background-color: #B4B4B4;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+.box2 {
+    background-color: #F07DAF;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+.box3 {
+    background-color: #88C0ED;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#p1 {  
+font-size: 1.4em;
+text-align: center;
+margin-top: 15px;
+font-weight: bold;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+}
+#p2 {  
+font-size: 1.4em;
+text-align: center;
+font-weight: bold;
+padding-top: 3px;
+padding-bottom: 3px;
+padding-right: 5px;
+border: 1px solid white;
+background-color: #9AAFB7;
+}
+#p3 {  
+font-size: 1.4em;
+text-align: center;
+margin-top: 15px;
+font-weight: bold;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+}
+#p4 {  
+font-size: 1.4em;
+text-align: center;
+margin-top: 15px;
+font-weight: bold;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+}
+#b1 {
+background-color: #83BEB8;
+
+}
+p{ 
+padding-right: 10px;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+#collapsable-nav {  
+
+}
+/* END HEADER */
